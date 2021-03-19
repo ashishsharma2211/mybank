@@ -1,2 +1,2 @@
 # Bank-Website-spark-foundation
-by Asish Sharma, The Spark Foundation,2021
+by Ashish Sharma, The Spark Foundation,2021
